@@ -38,7 +38,7 @@ const Contact = () =>{
     </form>
 
     <picture>
-      <img className=""  src="../public/img/Group-597.png" alt="" />
+      <img className=""  src="/img/Group-597.png" alt="" />
     </picture>
 </div>
 </section>
